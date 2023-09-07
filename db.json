@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Bajaj Finserv online test",
+      "day": "Aug 8th 9:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Indeco online test",
+      "day": "Sep 11th 9:00am",
+      "reminder": true
+    },
+    {
+      "text": "Jawan movie",
+      "day": "sep 9th 4:00pm",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
